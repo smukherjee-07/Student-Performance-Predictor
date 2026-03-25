@@ -98,6 +98,7 @@ The system includes built-in visualization tools to understand model behavior. T
 * **Option 4 (Exit):** Safely terminates the application.
 
 ## 📂 Project Structure
+
 ```text
 project/
 │
